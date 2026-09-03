@@ -1,0 +1,18 @@
+Struktur Bot Dudung AI:
+
+📦 dudung-ai-bot/
+ ├── 📁 src/
+ │   ├── index.js (Main bot)
+ │   └── 📁 commands/
+ │       ├── owner.js (8 owner features)
+ │       ├── ai.js (4 AI features)
+ │       └── group.js (2 group features)
+ ├── .env (API Keys)
+ ├── .env.example
+ ├── .gitignore
+ ├── package.json
+ └── README.md
+
+Total Fitur: 14 Commands
+API Keys Included: ✓
+Structure: Clean & Organized ✓
